@@ -13,3 +13,13 @@ python life_lightning.py
 # sample Image
 
 ![Test Image 3](sample_image.png) 
+
+# Requirement 
+
+```
+pip install open3d
+pip install 
+pip install opencv-python numpy
+
+
+```
