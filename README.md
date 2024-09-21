@@ -26,6 +26,17 @@ python life_lightning.py
 
 python carib_face.py
 ```
+## If you want to replace model, you can check available model
+
+```Python:model_check.py
+import torch
+
+# show available model list
+available_models = torch.hub.list('intel-isl/MiDaS', force_reload=False)
+print("available model:", available_models)
+```
+
+
 
 - main script
   
