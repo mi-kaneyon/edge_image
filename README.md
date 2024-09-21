@@ -39,7 +39,7 @@ python firelight.py
 
 # Example
 
-![Test Image 3](sample_image.png) 
+![Test Image 3](3dimage.png) 
 
 
 # Requirement 
